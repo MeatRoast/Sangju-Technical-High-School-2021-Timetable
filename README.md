@@ -1,6 +1,8 @@
 # Sangju-Technical-High-School-2021-Timetable
-Sangju Technical High School 2021 School Year / 3rd grade, 7th and 8th class, Service to update timetable by date   
-상주공업고등학교 2021학년도 3학년 7반,8반 날짜마다 업데이트 해주는 서비스 입니다.   
+3rd grade of Sangju Technical High School, Class 1, Class 2, Class 3, Class 4, Class 5, Class 6, Class 7, Class 8,   
+Service to update timetable by date   
+
+상주공업고등학교 2021학년도 3학년 1반 ~ 8반까지 날짜마다 업데이트 해주는 서비스 입니다.   
 사이트를 접속하면 그 날 시간표가 보여줍니다.   
    
     

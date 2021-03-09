@@ -4,6 +4,11 @@ Service to update timetable by date
 
 상주공업고등학교 2021학년도 3학년 1반 ~ 8반까지 날짜마다 업데이트 해주는 서비스 입니다.   
 사이트를 접속하면 그 날 시간표가 보여줍니다.   
+주요기능:
+> 시간표.  
+> 급식.  
+> 학사일정.  
+
    
     
 Copyright ©2021 Dohwan Kim. All rights reserve   
